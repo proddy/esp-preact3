@@ -1,6 +1,6 @@
-/node_modules
-/*.sw?
-/yarn-error.log
-!/build/.keep
-yarn.lock
-/build
+webui/node_modules
+webui/*.sw?
+webui/yarn-error.log
+!/webui/build/.keep
+webui/yarn.lock
+webui/build
